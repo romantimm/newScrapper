@@ -1,0 +1,7 @@
+{
+  "host": "ec2-176-34-105-15.eu-west-1.compute.amazonaws.com",
+  "port": "5432",
+  "database": "d77lkn98qam1l3",
+  "user": "mfczngzbjzixpc",
+  "password": "e4e121dcb16b728381329589db56b479654b2f1f299fc5892ceeaa4664b874ba"
+}
